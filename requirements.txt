@@ -1,0 +1,5 @@
+streamlit
+firebase-admin
+google-genai
+python-dotenv
+pandas
